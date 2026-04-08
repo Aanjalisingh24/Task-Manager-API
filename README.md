@@ -101,5 +101,3 @@ You can test the API using:
 Deployed on Render with live API endpoints
 
 =======
-# Task-Manager-API
->>>>>>> f621af9c134bfbf1736531b2d50afe2f10567057
