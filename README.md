@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Manager API
 
 A scalable backend API for managing tasks, built using Node.js, Express, and MongoDB. This project includes authentication, protected routes, filtering.
@@ -100,6 +99,3 @@ You can test the API using:
 
 Deployed on Render with live API endpoints
 
-=======
-# Task-Manager-API
->>>>>>> f621af9c134bfbf1736531b2d50afe2f10567057
