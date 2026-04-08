@@ -29,7 +29,7 @@ A scalable backend API for managing tasks, built using Node.js, Express, and Mon
 Base URL:
 
 ```
-https://your-app.onrender.com
+https://task-manager-api-1-auh7.onrender.com
 ```
 
 ---
