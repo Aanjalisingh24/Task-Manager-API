@@ -12,6 +12,8 @@ app.use(express.json());
 app.use('/api/auth', require('./routes/authroutes'));
 app.use('/api/tasks', require('./routes/taskroutes'));
 
-app.listen(3000, ()=>{
-    console.log("server running...");
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
 });

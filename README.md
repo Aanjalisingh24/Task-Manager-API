@@ -83,6 +83,7 @@ Create a `.env` file and add:
 ```
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret
+PORT=3000
 ```
 
 ---
@@ -98,4 +99,10 @@ You can test the API using:
 ##  Deployment
 
 Deployed on Render with live API endpoints
+
+## 👩‍💻 Author
+
+Aanjali Singh
+
+
 
